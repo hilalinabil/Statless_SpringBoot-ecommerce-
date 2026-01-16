@@ -102,6 +102,18 @@
             <artifactId>jjwt-jackson</artifactId>
             <version>0.13.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.hibernate.orm</groupId>
+            <artifactId>hibernate-envers</artifactId>
+            <version>7.2.1.Final</version>
+        </dependency>
+
+
     </dependencies>
 
     <build>
